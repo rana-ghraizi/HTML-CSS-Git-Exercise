@@ -2,6 +2,7 @@
 .countries--first {
   display: flex;
   flex-direction: row-reverse;
+  width: 550px;
 }
 .countries--third {
   display: flex;
