@@ -8,16 +8,20 @@
 
 /* Add your own CSS code below */
 .countries--first {
-  justify-content: center;
+  justify-content: flex-end;
+  width: 510px;
 }
 .countries--second {
   justify-content: space-around;
+  width: 500px;
 }
 .countries--third {
   flex-direction: column;
   justify-content: flex-end;
+  width: 500px;
 }
 .countries--fourth {
   flex-direction: column-reverse;
-  justify-content: space-between;
+  justify-content: space-around;
+  width: 550px;
 }
