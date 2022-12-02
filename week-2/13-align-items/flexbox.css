@@ -5,16 +5,20 @@
 .countries--first {
   flex-direction: row;
   align-items: center;
+  width: 510px;
 }
 .countries--second {
   flex-direction: row-reverse;
   align-items: flex-end;
+  width: 510px;
 }
 .countries--third {
   flex-direction: column;
   align-items: flex-end;
+  width: 510px;
 }
 .countries--fourth {
   flex-direction: column-reverse;
   align-items: center;
+  width: 510px;
 }
