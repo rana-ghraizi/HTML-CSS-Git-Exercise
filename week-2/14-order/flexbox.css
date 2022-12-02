@@ -50,3 +50,8 @@
 .countries--third :nth-child(5) {
   order: 1;
 }
+.countries--first,
+.countries--second,
+.countries--third {
+  width: 510px;
+}
