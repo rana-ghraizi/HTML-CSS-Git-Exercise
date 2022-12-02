@@ -31,3 +31,9 @@
 .countries--fourth :nth-child(5) {
   align-self: center;
 }
+.countries--first,
+.countries--second,
+.countries--third,
+.countries--fourth {
+  width: 510px;
+}
